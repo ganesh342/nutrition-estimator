@@ -1,0 +1,110 @@
+
+🔍 Processing: Jeera Aloo (mild fried)
+🔁 Replaced synonym "aloo" → "potato"
+❌ No ingredients found from API for: "Jeera Aloo (mild fried) Fetched from my DB"
+   🧪 Curd with potatoes (Dahi aloo):  CAL: 59.9kcal P: 1.56g, C: 7.15g, F: 2.72g
+   🧪 Cumin seeds (Cuminum cyminum):  CAL: 304.49kcal P: 13.91g, C: 22.62g, F: 16.64g
+   🧪 Turmeric powder (Curcuma domestica):  CAL: 280.59kcal P: 7.66g, C: 49.22g, F: 5.03g
+   ❓ Ingredient not in DB: green chili
+   🍽️ Serving size: 100g
+   ➕ Nutrition (per 100g avg): 188.6 kcal
+   🍽️ Per 1 katori (~100g):
+      🥩 P: 5.0g
+      🍞 C: 22.4g
+      🧈 F: 8.5g
+
+🔍 Processing: Gobhi Sabzi
+⚠️ Added default dish type: sabzi
+❌ No ingredients found from API for: "Gobhi Sabzi Fetched from my DB"
+   🧪 Cauliflower leaves (Brassica oleracea var. botrytis):  CAL: 35.37kcal P: 3.9g, C: 3.39g, F: 0.42g
+   🧪 Onion, stalk (Allium cepa):  CAL: 25.57kcal P: 2.07g, C: 2.99g, F: 0.26g
+   🧪 Tomato, green (Solanum lycopersicum):  CAL: 20.79kcal P: 1.12g, C: 3.18g, F: 0.27g
+   ❓ Ingredient not in DB: green chili
+   ❓ Ingredient not in DB: ginger garlic paste
+   🧪 Turmeric powder (Curcuma domestica):  CAL: 280.59kcal P: 7.66g, C: 49.22g, F: 5.03g
+   🧪 Chilli powder:  CAL: 0kcal P: 13.5g, C: 0g, F: 14.3g
+   ❓ Ingredient not in DB: coriander powder
+   🧪 Garam masala:  CAL: 379kcal P: 15.6g, C: 45.2g, F: 15.1g
+   🧪 Mustard seeds (Brassica nigra):  CAL: 509.55kcal P: 19.51g, C: 16.8g, F: 40.19g
+   🧪 Oil sardine:  CAL: 97kcal P: 19.6g, C: 0.1g, F: 2g
+   🧪 Salt:  CAL: 0kcal P: 0g, C: 0g, F: 0g
+   🍽️ Serving size: 150g
+   ➕ Nutrition (per 100g avg): 75.6 kcal
+   🍽️ Per 1 katori (~150g):
+      🥩 P: 12.6g
+      🍞 C: 9.9g
+      🧈 F: 2.3g
+
+🔍 Processing: Chana masala
+🌐 Ingredients fetched from API: cooking oil, white onions, fresh ginger, garlic paste, ground cumin, chilli powder, ground coriander, ground turmeric, garam masala, black ground pepper, salt, coconut sugar, canned tomatoes, canned chickpeas, water, coconut cream
+   🧪 Cooking oil (groundnut, gingerly, palmolein, mustard, coconut, etc):  CAL: 900kcal P: 0g, C: 0g, F: 100g
+   ❓ Ingredient not in DB: white onions
+   🧪 Ginger, fresh (Zingiber officinale):  CAL: 54.97kcal P: 2.22g, C: 8.97g, F: 0.85g
+   ❓ Ingredient not in DB: garlic paste
+   ❓ Ingredient not in DB: ground cumin
+   🧪 Chilli powder:  CAL: 0kcal P: 13.5g, C: 0g, F: 14.3g
+   ❓ Ingredient not in DB: ground coriander
+   ❓ Ingredient not in DB: ground turmeric
+   🧪 Garam masala:  CAL: 379kcal P: 15.6g, C: 45.2g, F: 15.1g
+   ❓ Ingredient not in DB: black ground pepper
+   🧪 Salt:  CAL: 0kcal P: 0g, C: 0g, F: 0g
+   ❓ Ingredient not in DB: coconut sugar
+   ❓ Ingredient not in DB: canned tomatoes
+   ❓ Ingredient not in DB: canned chickpeas
+   🧪 Water lily seeds:  CAL: 345kcal P: 8.3g, C: 75.6g, F: 1g
+   🧪 Choconut ice cream:  CAL: 273.96kcal P: 5.04g, C: 23.13g, F: 18.49g
+   🍽️ Serving size: 150g
+   ➕ Nutrition (per 100g avg): 130.2 kcal
+   🍽️ Per 1 katori (~150g):
+      🥩 P: 4.5g
+      🍞 C: 15.3g
+      🧈 F: 15.0g
+
+🔍 Processing: Paneer Curry with capsicum
+✔️ Spelling corrected: Paneer Curry leaves (Murraya koenigii) Bananas, raw, flesh only, weighed with skin Capsicum, green (Capsicum annuum)
+🌐 Ingredients fetched from API: paneer, oil, cumin seeds, tomato, tomatoes, onion, red green bell pepper, turmeric powder, chilli powder, green chillies, red dried chillies, ginger, garam masala, sugar, vinegar, coriander, salt
+   🧪 Paneer:  CAL: 257.88kcal P: 18.86g, C: 12.41g, F: 14.78g
+   🧪 Oil sardine:  CAL: 97kcal P: 19.6g, C: 0.1g, F: 2g
+   🧪 Cumin seeds (Cuminum cyminum):  CAL: 304.49kcal P: 13.91g, C: 22.62g, F: 16.64g
+   🧪 Tomato, green (Solanum lycopersicum):  CAL: 20.79kcal P: 1.12g, C: 3.18g, F: 0.27g
+   🧪 Tomatoes, cherry, raw:  CAL: 22kcal P: 1.1g, C: 3.6g, F: 0.5g
+   🧪 Onion, stalk (Allium cepa):  CAL: 25.57kcal P: 2.07g, C: 2.99g, F: 0.26g
+   🧪 Pepper green:  CAL: 98kcal P: 4.8g, C: 13.7g, F: 2.7g
+   🧪 Turmeric powder (Curcuma domestica):  CAL: 280.59kcal P: 7.66g, C: 49.22g, F: 5.03g
+   🧪 Chilli powder:  CAL: 0kcal P: 13.5g, C: 0g, F: 14.3g
+   🧪 Chillies, green-1 (Capsicum annum):  CAL: 45.65kcal P: 2.62g, C: 6.32g, F: 0.73g
+   ❓ Ingredient not in DB: red dried chillies
+   🧪 Ginger, fresh (Zingiber officinale):  CAL: 54.97kcal P: 2.22g, C: 8.97g, F: 0.85g
+   🧪 Garam masala:  CAL: 379kcal P: 15.6g, C: 45.2g, F: 15.1g
+   🧪 Water melon, dark green (sugar baby) (Citrullus vulgaris):  CAL: 20.32kcal P: 0.6g, C: 3.86g, F: 0.16g
+   🧪 Vinegar:  CAL: 22kcal P: 0.4g, C: 0.6g, F: 0g
+   🧪 Coriander leaves (Coriandrum sativum):  CAL: 31.07kcal P: 3.52g, C: 1.93g, F: 0.7g
+   🧪 Salt:  CAL: 0kcal P: 0g, C: 0g, F: 0g
+   🍽️ Serving size: 150g
+   ➕ Nutrition (per 100g avg): 110.6 kcal
+   🍽️ Per 1 katori (~150g):
+      🥩 P: 10.8g
+      🍞 C: 17.5g
+      🧈 F: 7.4g
+
+🔍 Processing: Mixed veg
+⚠️ Added default serving size: katori
+🌐 Ingredients fetched from API: whole-wheat spaghetti, grapeseed oil, dark sesame oil, garlic, ginger, edamame, onion, carrot, bok choi, soy sauce, sesame seeds, red pepper flakes
+   ❓ Ingredient not in DB: whole-wheat spaghetti
+   ❓ Ingredient not in DB: grapeseed oil
+   🧪 Oil, sesame:  CAL: 898kcal P: 0.2g, C: 0g, F: 99.7g
+   🧪 Garlic, big clove (Allium sativum):  CAL: 123.8kcal P: 6.92g, C: 21.93g, F: 0.16g
+   🧪 Ginger, fresh (Zingiber officinale):  CAL: 54.97kcal P: 2.22g, C: 8.97g, F: 0.85g
+   ❓ Ingredient not in DB: edamame
+   🧪 Onion, stalk (Allium cepa):  CAL: 25.57kcal P: 2.07g, C: 2.99g, F: 0.26g
+   🧪 Carrot leaves:  CAL: 77kcal P: 5.1g, C: 13.1g, F: 0.5g
+   ❓ Ingredient not in DB: bok choi
+   🧪 Soy sauce, light and dark varieties:  CAL: 79kcal P: 3g, C: 17.9g, F: 0g
+   🧪 Sesame seeds:  CAL: 598kcal P: 18.2g, C: 0.9g, F: 58g
+   ❓ Ingredient not in DB: red pepper flakes
+   🍽️ Serving size: 100g
+   ➕ Nutrition (per 100g avg): 185.6 kcal
+   🍽️ Per 1 katori (~100g):
+      🥩 P: 3.8g
+      🍞 C: 6.6g
+      🧈 F: 15.9g

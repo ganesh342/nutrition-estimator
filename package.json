@@ -1,0 +1,16 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "start": "node --openssl-legacy-provider server.js"
+  },
+  "dependencies": {
+    "16": "^0.0.2",
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.3.0",
+    "fuzzball": "^2.2.2",
+    "google-apis": "^1.0.0",
+    "google-spreadsheet": "^3.0.0",
+    "googleapis": "^148.0.0"
+  }
+}
