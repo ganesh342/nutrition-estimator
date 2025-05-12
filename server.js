@@ -356,7 +356,6 @@ async function processDishData(dishes) {
       debugLogs.push(`⚠️ Added default serving size: ${DEFAULTS.servingSize}`);
     }
 
-    // Step 4: Try DB match or fallback to API
 
       const apiIngredients = await fetchIngredientsFromAPI(originalDish);
       if (apiIngredients.length > 0) {
@@ -369,7 +368,6 @@ async function processDishData(dishes) {
       }
 
 
-    // Step 5: Map to nutrition DB and calculate total
     let totalNutrition = { calories: 0,protein: 0, carbs: 0, fat: 0 };
     for (let ing of ingredients) {
       const match = matchToNutritionDB(ing, nutritionData);
@@ -425,8 +423,8 @@ const sampleDishes = [
 
 app.get('/process-dishes', async (req, res) => {
   try {
-    const result = await processDishData(sampleDishes); // Wait for the async function to complete
-    res.send(result); // Send the result back to the client
+    const result = await processDishData(sampleDishes); 
+    res.send(result); 
   } catch (error) {
     res.status(500).send("Error processing dish data");
     console.error(error);
@@ -437,8 +435,8 @@ app.get('/process-single-dish', async (req, res) => {
   try {
     const body = await req.body;
     console.log(body);
-    const result = await processSingleDish(req.body); // Wait for the async function to complete
-    res.send(result); // Send the result back to the client
+    const result = await processSingleDish(req.body); 
+    res.send(result); 
   } catch (error) {
     res.status(500).send("Error processing dish data");
     console.error(error);

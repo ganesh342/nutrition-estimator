@@ -1,6 +1,6 @@
 const API_KEY = 'AIzaSyDw6XrbIXgpRoGgdM_B6rSMSFLvey8MzBE';
 const SHEET_ID = '1or5RHK33L5wDmEgVfFpTElPqJ3vgMvO_e5lxHD6xb0c';
-const SHEET_NAME1 = 'Nutrition source'; // Replace with your actual sheet name
+const SHEET_NAME1 = 'Nutrition source'; 
 const SHEET_NAME2 = 'Food categories';
 
 const url1 = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/${SHEET_NAME1}?key=${API_KEY}`;
@@ -18,7 +18,7 @@ const loadNutritionData = async () =>
       }, {})
     );
 
-    return formatted; // This is your array of objects
+    return formatted; 
   }
   catch (error)
   {
@@ -41,7 +41,7 @@ const foodCategoryData = async () =>
       }, {})
     );
 
-    return formatted; // This is your array of objects
+    return formatted; 
   }
   catch (error)
   {
